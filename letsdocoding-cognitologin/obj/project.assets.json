@@ -4962,11 +4962,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ICT\\Sem 8\\IBM Project\\Authentication and Authorization\\Group 03 Project\\letsdocoding-cognitologin\\letsdocoding-cognitologin.csproj",
+      "projectUniqueName": "E:\\ICT\\Sem 8\\IBM Project\\Group03\\Authentication-and-Authorization\\letsdocoding-cognitologin\\letsdocoding-cognitologin.csproj",
       "projectName": "letsdocoding-cognitologin",
-      "projectPath": "E:\\ICT\\Sem 8\\IBM Project\\Authentication and Authorization\\Group 03 Project\\letsdocoding-cognitologin\\letsdocoding-cognitologin.csproj",
+      "projectPath": "E:\\ICT\\Sem 8\\IBM Project\\Group03\\Authentication-and-Authorization\\letsdocoding-cognitologin\\letsdocoding-cognitologin.csproj",
       "packagesPath": "C:\\Users\\Jignesh Machhi\\.nuget\\packages\\",
-      "outputPath": "E:\\ICT\\Sem 8\\IBM Project\\Authentication and Authorization\\Group 03 Project\\letsdocoding-cognitologin\\obj\\",
+      "outputPath": "E:\\ICT\\Sem 8\\IBM Project\\Group03\\Authentication-and-Authorization\\letsdocoding-cognitologin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jignesh Machhi\\AppData\\Roaming\\NuGet\\NuGet.Config",

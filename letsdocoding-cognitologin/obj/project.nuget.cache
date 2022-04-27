@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fADQKF6ImWsrHBSeyRV2L62ZdQzX114kMP3W9yH6baU3TW/DP56mqop3ijWtWo3iSQz8C/AhmR37z0IoeFaNOw==",
+  "dgSpecHash": "WLHihJrp1lz9j9TkDbjwiMevGucitJoxCPPCu+ARVgxMsw/0U3IMhPtN8P8QheYsd/t4Duk5QdJHrWRozUUELg==",
   "success": true,
-  "projectFilePath": "E:\\ICT\\Sem 8\\IBM Project\\Authentication and Authorization\\Group 03 Project\\letsdocoding-cognitologin\\letsdocoding-cognitologin.csproj",
+  "projectFilePath": "E:\\ICT\\Sem 8\\IBM Project\\Group03\\Authentication-and-Authorization\\letsdocoding-cognitologin\\letsdocoding-cognitologin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jignesh Machhi\\.nuget\\packages\\awssdk.cognitoidentityprovider\\3.7.0.21\\awssdk.cognitoidentityprovider.3.7.0.21.nupkg.sha512",
     "C:\\Users\\Jignesh Machhi\\.nuget\\packages\\awssdk.core\\3.7.0.21\\awssdk.core.3.7.0.21.nupkg.sha512",
