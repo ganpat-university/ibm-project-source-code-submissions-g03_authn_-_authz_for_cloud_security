@@ -21,7 +21,7 @@
     },
     "resourceName": {
       "type": "string",
-      "defaultValue": "letsdocoding-cognitologin20220407232121",
+      "defaultValue": "ibmproject",
       "metadata": {
         "description": "Name of the main resource to be created by this template."
       }
